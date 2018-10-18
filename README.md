@@ -14,8 +14,8 @@ In the index file, look for the 'ol' tag. Then insert a 'li' tag with your link 
 # How to Create a Pull Request
 
 
-  - Click on the fork on the top to fork this repo.
-  - Go to your repo where you fork the project.
+  - Click on the fork on the top to fork this repository.
+  - Go to your repository where you fork the project.
   - Hit the clone button on your forked repo and copy the given link.
   - On your terminal / command prompt, type "git clone [put the link here]".
   - Change the index file in the folder.
